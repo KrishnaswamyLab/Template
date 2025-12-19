@@ -6,6 +6,7 @@
 [![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/DatasetLink)
 [![Twitter](https://img.shields.io/twitter/follow/KrishnaswamyLab.svg?style=social)](https://twitter.com/KrishnaswamyLab)
 
+This is a GitHub repo template for the lab. Feel free to contribute.
 
 ## About
 A brief eye-catching intro of the project.
