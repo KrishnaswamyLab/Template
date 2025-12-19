@@ -14,7 +14,7 @@ A brief eye-catching intro of the project.
 Can include a figure here.
 `<img src = "assets/architecture.png" width=800>`
 
-<img src = "assets/architecture.png" width=300>
+<img src = "assets/architecture.png" width=800>
 
 ## Citation
 ```
