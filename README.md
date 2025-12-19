@@ -1,7 +1,7 @@
 # Template
 
 [![ArXiv](https://img.shields.io/badge/ArXiv-ProjectName-firebrick)](https://arxiv.org/abs/ProjectLink)
-[![Conference](https://img.shields.io/badge/Conference-Year-aeeafc)](https://ConferenceLink)
+[![Conference](https://img.shields.io/badge/-Conference_Year-aeeafc)](https://ConferenceLink)
 [![Poster](https://img.shields.io/badge/Poster-0f4d92)](https://PosterLink)
 [![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/DatasetLink)
 [![Twitter](https://img.shields.io/twitter/follow/KrishnaswamyLab.svg?style=social)](https://twitter.com/KrishnaswamyLab)
